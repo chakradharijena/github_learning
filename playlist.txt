@@ -15,3 +15,6 @@ One of Us ABBA
 
 2000 song --3
 2000 song --4
+
+test merging --1
+test merging --2
